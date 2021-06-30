@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    font-family: 'Castoro', serif;
+}
+
+.header {
+    font-size: 30px;
+}
+
+.name {
+    color: orange;
+}
+
+.topbanar {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.details {
+    text-align: justify;
+    color: gray;
+}
+
+.half-weath {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+
+section {
+    height: 400px;
+}
+
+.half-weath img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px;
+    border: 5px solid orangered;
+    border-radius: 10px;
+    background-color: orangered;
+}
