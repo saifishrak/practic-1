@@ -11,7 +11,7 @@ body {
     color: orange;
 }
 
-.topbanar {
+.tb {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
@@ -28,7 +28,7 @@ body {
     padding-left: 3%;
 }
 
-section {
+.tb {
     height: 400px;
 }
 
@@ -38,8 +38,13 @@ section {
 
 .link-button {
     text-decoration: none;
-    padding: 10px;
-    border: 5px solid orangered;
-    border-radius: 10px;
-    background-color: orangered;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+
+.topbanar {
+    margin-top: 20px;
 }
